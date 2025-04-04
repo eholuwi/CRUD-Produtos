@@ -22,3 +22,6 @@ git clone https://github.com/eholuwi/CRUD-Produtos.git
 cd CRUD-Produtos
 npm install
 npm start
+````
+## 🔗 Deploy no Vercel
+Acesse o projeto online: [CRUD Produtos](https://crud-produtos-delta.vercel.app/)
